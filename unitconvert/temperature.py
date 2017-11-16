@@ -27,7 +27,7 @@ def celsius_to_fahrenheit(temp):
 
     return fahrenheit
 
-def temp_convert(temp, units=c):
+def temp_convert(temp, units="c"):
     '''
         Input:
             temp: (float)

@@ -32,7 +32,7 @@ def kilometers_to_miles(distance):
 
     return miles
 
-def dist_convert(distance, units=m):
+def dist_convert(distance, units="m"):
     '''
         PARAMETERS
         ---------
